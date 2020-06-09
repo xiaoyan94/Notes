@@ -1,49 +1,49 @@
-- [Unit1](#unit1)
-  - [完形填空](#完形填空)
-    - [P34](#p34)
-  - [练习翻译](#练习翻译)
-    - [P50](#p50)
-  - [Learning Aids](#learning-aids)
-    - [P48](#p48)
-- [Unit2](#unit2)
-  - [练习翻译](#练习翻译-1)
-    - [P75](#p75)
-    - [P66](#p66)
-    - [P85](#p85)
-  - [完形填空](#完形填空-1)
-    - [P65](#p65)
-    - [P84](#p84)
-- [Unit3](#unit3)
-  - [完形填空](#完形填空-2)
-    - [P100](#p100)
-- [Unit4](#unit4)
-  - [练习翻译](#练习翻译-2)
-    - [P149](#p149)
-    - [P185](#p185)
-- [Unit 5](#unit-5)
-  - [练习翻译](#练习翻译-3)
-    - [P201 3](#p201-3)
-    - [P201 4](#p201-4)
-    - [P213 2](#p213-2)
-    - [P225](#p225)
-- [Unit6](#unit6)
-  - [练习翻译](#练习翻译-4)
-    - [P284 4](#p284-4)
-  - [完形填空](#完形填空-3)
-    - [P240](#p240)
-    - [P285](#p285)
+- [1. Unit1](#1-unit1)
+  - [1.1. 完形填空](#11-完形填空)
+    - [1.1.1. P34](#111-p34)
+  - [1.2. 练习翻译](#12-练习翻译)
+    - [1.2.1. P50](#121-p50)
+  - [1.3. Learning Aids](#13-learning-aids)
+    - [1.3.1. P48](#131-p48)
+- [2. Unit2](#2-unit2)
+  - [2.1. 练习翻译](#21-练习翻译)
+    - [2.1.1. P75](#211-p75)
+    - [2.1.2. P66](#212-p66)
+    - [2.1.3. P85](#213-p85)
+  - [2.2. 完形填空](#22-完形填空)
+    - [2.2.1. P65](#221-p65)
+    - [2.2.2. P84](#222-p84)
+- [3. Unit3](#3-unit3)
+  - [3.1. 完形填空](#31-完形填空)
+    - [3.1.1. P100](#311-p100)
+- [4. Unit4](#4-unit4)
+  - [4.1. 练习翻译](#41-练习翻译)
+    - [4.1.1. P149](#411-p149)
+    - [4.1.2. P185](#412-p185)
+- [5. Unit 5](#5-unit-5)
+  - [5.1. 练习翻译](#51-练习翻译)
+    - [5.1.1. P201 3](#511-p201-3)
+    - [5.1.2. P201 4](#512-p201-4)
+    - [5.1.3. P213 2](#513-p213-2)
+    - [5.1.4. P225](#514-p225)
+- [6. Unit6](#6-unit6)
+  - [6.1. 练习翻译](#61-练习翻译)
+    - [6.1.1. P284 4](#611-p284-4)
+  - [6.2. 完形填空](#62-完形填空)
+    - [6.2.1. P240](#621-p240)
+    - [6.2.2. P285](#622-p285)
 
-# Unit1
-## 完形填空
-### P34
+# 1. Unit1
+## 1.1. 完形填空
+### 1.1.1. P34
 
 I am pleased to inform you that the Third International Symposium on ELT in china, organized by China English Language Education Association (CELEA) in association with the National Foreign Languages Teaching Advisory Board, will be held in Beijing at China Resources Hotel from 19th to 21st in may 2001.You are invited to attend the Symposiun. 
 The session of Symposium will include keynote speeches and paper presentations. Among keynote speakers are scholars such as Geoffery Leech ,David Nunan,…..Hu Wenzhong will also be invited to deliver plenary addresses. Paper presentations will be organized at different sites according to the topics of the papers, and each participant will be give 15minutes for presentation. 
 
 ---
 
-## 练习翻译
-### P50
+## 1.2. 练习翻译
+### 1.2.1. P50
 
     ① Called to order by the presiding officer:  主持人致词  
     ② Roll call: 点名  
@@ -68,8 +68,8 @@ The session of Symposium will include keynote speeches and paper presentations. 
     ⑩ 招待晚宴： reception/banquet
 
 ---  
-## Learning Aids
-### P48
+## 1.3. Learning Aids
+### 1.3.1. P48
 
     1. 关于研讨会(conference) 
     ①会议（Meeting）: 对人们为了某一特定的目的而集合起来的一种笼统的说法。
@@ -107,9 +107,9 @@ The session of Symposium will include keynote speeches and paper presentations. 
     流程单的格式应该是清晰可辨的，并应用简洁的语言进行描述。
 
 ---
-# Unit2
-## 练习翻译
-### P75
+# 2. Unit2
+## 2.1. 练习翻译
+### 2.1.1. P75
 
 > 我已收到您2002年3月9日邀请我参加于2002年11月5-8日在中国地质大学（武汉）学术交流中心举行的地球科学与可持续发展策略会议的来信。
 >   
@@ -125,7 +125,7 @@ The session of Symposium will include keynote speeches and paper presentations. 
 
 ---
 
-### P66
+### 2.1.2. P66
 
     1、很高兴代表组委会邀请您参加于2007年11月18-23日在上海复旦大学举行的而网络文化与大学英语教学国际会议。
 
@@ -148,7 +148,7 @@ The session of Symposium will include keynote speeches and paper presentations. 
     If you have any enquiries or need any assistance, please do not hesitate to contact our conference convener Ms.Yinghui zhang at（020）8411。。。Or at Yinghuizhang@yahoo.com. 
 
 ---
-### P85
+### 2.1.3. P85
 
     6、我代表组委会很荣幸地通知您，您的论文已被同意在会上宣读，并将收录在会议论文汇编中。
 
@@ -172,15 +172,15 @@ The session of Symposium will include keynote speeches and paper presentations. 
 
 ---
 
-## 完形填空
-### P65
+## 2.2. 完形填空
+### 2.2.1. P65
 
 Dear Colleagues: 
 You are cordially invited to participate in the Second International Conference on the Telemedical Information Society 2001 which has joined with the second International …….in Biomedicine(ITAB) 2001 to be held in ….. 
 TIS-ITAB 2001 is the first combined International conference. It will be an opportunity for the international community to exchange ideas and develop a common vision for the future of the world healthcare. Contributions to the progress of developing a global telemetrically information society will include scientific papers, demonstrations, forums and future vision papers. The organizing committee has been working hard to make TIS-ITAB 2001 a truly memorable, experience for all participants.
 
 ---
-### P84
+### 2.2.2. P84
 
 Dear Colleagues: 
 Please note a correction in the call for papers……Please accept my apologies for the original error in email contact..…please feel free to contact James Orr, MARAAS 2007….. 
@@ -188,9 +188,9 @@ The 2007 MARAAS ….The conference theme will be “Asia Rising：Departure，De
 In order to submit a proposal for the….a 2007 MARRAS member or submit a membership application to Executive Secretary, Dr ……,please go to –www.maraas.org or …. 
 
 ---
-# Unit3
-## 完形填空
-### P100
+# 3. Unit3
+## 3.1. 完形填空
+### 3.1.1. P100
 
 Supportive Communication and School Outcomes for Academically “At-Risk ” and Other Low Income Middle School Student 
 This article reports the findings of research dealing with at-risk youth….The author defines social support as:….. 
@@ -200,9 +200,9 @@ Those in the second group who performed poorly did not have the informal support
 
 ---
 
-# Unit4
-## 练习翻译
-### P149
+# 4. Unit4
+## 4.1. 练习翻译
+### 4.1.1. P149
 
     47、很荣幸向大家介绍  
     It`s my pleasure to introduce  
@@ -221,7 +221,7 @@ Those in the second group who performed poorly did not have the informal support
 
 ---
 
-### P185
+### 4.1.2. P185
 
     38、我现在宣布提问开始。在座各位如果有问题的话，现在可以提出来  
     I‘d like to open the Q&A session now. If you have any questions please ask.  
@@ -252,9 +252,9 @@ Those in the second group who performed poorly did not have the informal support
 
 ---
 
-# Unit 5
-## 练习翻译
-### P201 3
+# 5. Unit 5
+## 5.1. 练习翻译
+### 5.1.1. P201 3
 
     11、我叫杨晴，来自中国，很荣幸担任本次大会的主席。首先，我代表和平利用原子能执行委员会欢迎大家。
 
@@ -277,9 +277,9 @@ Those in the second group who performed poorly did not have the informal support
 
     I wish the congress will be successful and productive, and wish you to have a pleasant and memorable experience in the beautiful historical city of Jinan. 
 
-### P201 4
+### 5.1.2. P201 4
 
-### P213 2
+### 5.1.3. P213 2
 
     32、代表国际科学理事会物理协会致闭幕词 
     
@@ -301,7 +301,7 @@ Those in the second group who performed poorly did not have the informal support
 
     I look forward to seeing you again at the next conference two years hence in 2007 in China. 
 
-### P225
+### 5.1.4. P225
 
     17、我很高兴参加今天的盛宴。借此机会，我代表上海市人民政府和上海人民对各位表示热烈的欢迎。
 
@@ -345,9 +345,9 @@ Those in the second group who performed poorly did not have the informal support
 
 ---
 
-# Unit6
-## 练习翻译
-### P284 4
+# 6. Unit6
+## 6.1. 练习翻译
+### 6.1.1. P284 4
 
     27、我希望在贵校法学院学习国际法，因为目前国际商务十分频繁，国际诉讼案件越来越复杂，急需这方面的专家。
 
@@ -369,8 +369,8 @@ Those in the second group who performed poorly did not have the informal support
 
     I am a very conscientious person, capable of finishing tasks in an accurate manner and on time.
 
-## 完形填空  
-### P240
+## 6.2. 完形填空  
+### 6.2.1. P240
 Dear Mr.Jfffrey Scanlon: 
 I am an associate professor….I am writing to you explore the possibility of spending one or two years working in your laboratory. I enclose a copy my curriculum vitae, which contains information on my educational and research experience. 
 As you can see from my CV, I have a bit of work experience in your research area. I am confident of my ability to make a contribution to your ongoing research projects…..by the Chinese Government, which will grant me travel expenses and a small monthly stipend(approximately...Also, if I am to stay for a second year the support will come from somewhere else. 
@@ -378,7 +378,7 @@ Professor Zhang Ruide, Director of my….. doctoral program, have agreed to writ
 I look forward to hearing from you soon. 
 Sincerely yours, 
 Gao Ling (Enclosure) 
-### P285
+### 6.2.2. P285
 
 Throughout my life I have observed two distinct career paths, my father's and my uncle's….My uncle, however, <u><span style="color:yellow;">***continued his education***</span></u> by moving to the United states to earn an MBA……in Los Angeles. <u><span style="color:yellow;">***Evaluating***</span></u> their experiences helped me understand what….for my career. 
 
