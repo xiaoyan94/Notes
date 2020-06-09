@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "📓",
+			"path": "."
+		},
+		{
+			"name": "国际学术交流英语",
+			"path": "./Academic English"
+		},
+		{
+			"name": "Hadoop笔记",
+			"path": "./Hadoop"
+		}
+	]
+}
