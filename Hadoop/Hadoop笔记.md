@@ -7,12 +7,13 @@
     - [4. Hadoop配置](#4-hadoop配置)
     - [5. 启动HDFS](#5-启动hdfs)
     - [6. 停止HDFS](#6-停止hdfs)
-  - [HDFS SHELL](#hdfs-shell)
+  - [HDFS SHELL 常用命令](#hdfs-shell-常用命令)
     - [1. 将Hadoop bin目录添加到环境变量](#1-将hadoop-bin目录添加到环境变量)
-    - [2. `ls`、`put`命令](#2-lsput命令)
-    - [3. 查看文件内容  `text`、`cat`](#3-查看文件内容-textcat)
-    - [4. `mkdir、rmdir、get、copyFromLocal、rm`](#4-mkdirrmdirgetcopyfromlocalrm)
-    - [5. HDFS Web 管理页面](#5-hdfs-web-管理页面)
+    - [2. HDFS SHELL 命令用法](#2-hdfs-shell-命令用法)
+    - [3. `ls`、`put`命令](#3-lsput命令)
+    - [4. 查看文件内容  `text`、`cat`](#4-查看文件内容-textcat)
+    - [5. `mkdir、rmdir、get、copyFromLocal、rm`](#5-mkdirrmdirgetcopyfromlocalrm)
+    - [6. HDFS Web 管理页面](#6-hdfs-web-管理页面)
   - [参考文档](#参考文档)
 
 # Hadoop安装
@@ -130,7 +131,7 @@
    ```
 ---
 
-## HDFS SHELL
+## HDFS SHELL 常用命令
 ### 1. 将Hadoop bin目录添加到环境变量
    ```bash
    vi ~/.bash_profile #设置系统环境变量
@@ -145,7 +146,8 @@
    root@brave-post-2:~/app/hadoop-2.6.0-cdh5.7.0# vi ~/.bash_profile 
    root@brave-post-2:~/app/hadoop-2.6.0-cdh5.7.0# source ~/.bash_profile 
    ```
-   HDFS SHELL常用命令
+   终端键入`hdfs`，若有输出hdfs命令的用法提示则环境变量配置成功。
+### 2. HDFS SHELL 命令用法
    ```bash
    root@brave-post-2:~/app/hadoop-2.6.0-cdh5.7.0# hdfs
     Usage: hdfs [--config confdir] COMMAND
@@ -240,7 +242,7 @@
 
    root@brave-post-2:~# 
    ```
-### 2. `ls`、`put`命令
+### 3. `ls`、`put`命令
    - 查看目录列表 `ls`  
    - 将本地文件保存到HDFS中 `put`
    ```bash
@@ -273,7 +275,7 @@
    -rw-r--r--   1 root supergroup         40 2020-06-08 22:03 /hello.txt
    ```  
 
-### 3. 查看文件内容  `text`、`cat`
+### 4. 查看文件内容  `text`、`cat`
    ```bash
    root@brave-post-2:~/data# hadoop fs -text /hello.txt
    20/06/08 22:08:59 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
@@ -287,7 +289,7 @@
    hadoop hello
    root@brave-post-2:~/data# 
    ```
-### 4. `mkdir、rmdir、get、copyFromLocal、rm`
+### 5. `mkdir、rmdir、get、copyFromLocal、rm`
    - 创建目录 `mkdir`
    ```bash
    root@brave-post-2:~/data# hadoop fs -mkdir /testdir
@@ -420,7 +422,7 @@
    root@brave-post-2:~/data#
    ```
 
-### 5. HDFS Web 管理页面
+### 6. HDFS Web 管理页面
 URL：<http://23.105.206.170:50070/explorer.html#/>
 - 浏览HDFS文件系统目录，查看文件信息
   ![浏览HDFS文件系统目录](./imgs/hdfs01.png) 
