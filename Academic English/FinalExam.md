@@ -390,4 +390,4 @@ During my tenure with the MAS department…… Their work was <u><span style="co
 
 After graduating from Wharton….growth practice. <u><span style="color:yellow;">***In addition to***</span></u> providing me with an opportunity to apply what ……ideas and examine ways to build a <u><span style="color:yellow;">***sustaining business***</span></u> with the help of the Wharton ….but also give me <u><span style="color:yellow;">***exposure***</span></u> to top consulting firms and successful entrepreneurs. 
 
-I am confident that ….gaining the <u><span style="color:yellow;">***requisite***</span></u> skills and relationships…….to accomplish this objective.
+I am confident that ….gaining the <u><span style="color:yellow;">***requisite（必要的）***</span></u> skills and relationships…….to accomplish this objective.
