@@ -1,44 +1,45 @@
 # 国际学术交流英语
 
-- [1. Unit1](#1-unit1)
-  - [1.1. 单词](#11-单词)
-  - [1.2. 完形填空](#12-完形填空)
-    - [1.2.1. P34](#121-p34)
-  - [1.3. 练习翻译](#13-练习翻译)
-    - [1.3.1. P50](#131-p50)
-  - [1.4. Learning Aids](#14-learning-aids)
-    - [1.4.1. P48](#141-p48)
-- [2. Unit2](#2-unit2)
-  - [2.1. 单词](#21-单词)
-  - [2.2. 练习翻译](#22-练习翻译)
-    - [2.2.1. P75](#221-p75)
-    - [2.2.2. P66](#222-p66)
-    - [2.2.3. P85](#223-p85)
-  - [2.3. 完形填空](#23-完形填空)
-    - [2.3.1. P65](#231-p65)
-    - [2.3.2. P84](#232-p84)
-- [3. Unit3](#3-unit3)
-  - [3.1. 单词](#31-单词)
-  - [3.2. 完形填空](#32-完形填空)
-    - [3.2.1. P100](#321-p100)
-- [4. Unit4](#4-unit4)
-  - [4.1. 单词](#41-单词)
-  - [4.2. 练习翻译](#42-练习翻译)
-    - [4.2.1. P149](#421-p149)
-    - [4.2.2. P185](#422-p185)
-- [5. Unit 5](#5-unit-5)
-  - [5.1. 单词](#51-单词)
-  - [5.2. 练习翻译](#52-练习翻译)
-    - [5.2.1. P201 3](#521-p201-3)
-    - [5.2.2. P201 4](#522-p201-4)
-    - [5.2.3. P213 2](#523-p213-2)
-  - [5.3. P225](#53-p225)
-- [6. Unit6](#6-unit6)
-  - [6.1. 练习翻译](#61-练习翻译)
-    - [6.1.1. P284 4](#611-p284-4)
-  - [6.2. 完形填空](#62-完形填空)
-    - [6.2.1. P240](#621-p240)
-    - [6.2.2. P285](#622-p285)
+- [国际学术交流英语](#国际学术交流英语)
+  - [1. Unit1](#1-unit1)
+    - [1.1. 单词](#11-单词)
+    - [1.2. 完形填空](#12-完形填空)
+      - [1.2.1. P34](#121-p34)
+    - [1.3. 练习翻译](#13-练习翻译)
+      - [1.3.1. P50](#131-p50)
+    - [1.4. Learning Aids](#14-learning-aids)
+      - [1.4.1. P48](#141-p48)
+  - [2. Unit2](#2-unit2)
+    - [2.1. 单词](#21-单词)
+    - [2.2. 练习翻译](#22-练习翻译)
+      - [2.2.1. P75](#221-p75)
+      - [2.2.2. P66](#222-p66)
+      - [2.2.3. P85](#223-p85)
+    - [2.3. 完形填空](#23-完形填空)
+      - [2.3.1. P65](#231-p65)
+      - [2.3.2. P84](#232-p84)
+  - [3. Unit3](#3-unit3)
+    - [3.1. 单词](#31-单词)
+    - [3.2. 完形填空](#32-完形填空)
+      - [3.2.1. P100](#321-p100)
+  - [4. Unit4](#4-unit4)
+    - [4.1. 单词](#41-单词)
+    - [4.2. 练习翻译](#42-练习翻译)
+      - [4.2.1. P149](#421-p149)
+      - [4.2.2. P185](#422-p185)
+  - [5. Unit 5](#5-unit-5)
+    - [5.1. 单词](#51-单词)
+    - [5.2. 练习翻译](#52-练习翻译)
+      - [5.2.1. P201 3](#521-p201-3)
+      - [5.2.2. P201 4](#522-p201-4)
+      - [5.2.3. P213 2](#523-p213-2)
+    - [5.3. P225](#53-p225)
+  - [6. Unit6](#6-unit6)
+    - [6.1. 练习翻译](#61-练习翻译)
+      - [6.1.1. P284 4](#611-p284-4)
+    - [6.2. 完形填空](#62-完形填空)
+      - [6.2.1. P240](#621-p240)
+      - [6.2.2. P285](#622-p285)
 
 ## 1. Unit1
 
@@ -289,11 +290,11 @@ I have received the acknowledgement of my paper’s acceptance and the official 
 
 8、提交会议的论文摘要可以用英语或中文撰写，英文限200词，中文限300字。
 
-Abstracts sent to the conference may be written in English or Chinese. English abstracts should be no more than 200 words, while abstracts in Chinese should be more than 300 Chinese characters in length.
+Abstracts sent to the conference may be written in English or Chinese. English abstracts should be no more than 200 words, while abstracts in Chinese should be no more than 300 Chinese characters in length.
 
-9、现附上本次会议的有关细节：演讲酬金、时间安排、旅馆及机票的预定消息等。
+9、现附上本次会议的有关**细节**：演讲**酬金**、时间安排、旅馆及机票的预定消息等。
 
-Attached is an outline of the particulars: remuneration, schedules ,hotel and airline reservations ,etc. Please let me know your decision by June 10.
+Attached is an outline of the **particulars**: **remuneration**, schedules ,hotel and airline reservations ,etc. Please let me know your decision by June 10.
 
 10、对于上述提到的事宜，请注意一下几点。
 
@@ -306,6 +307,7 @@ With regard to the above, please note the following.
 #### 2.3.1. P65
 
 Dear Colleagues:  
+
 You are cordially ***invited*** to participate in the Second International Conference ***on*** the Telemedical Information Society 2001 which has ***joined*** with the second International …….in Biomedicine(ITAB) 2001 ***to*** be held in …..  
 
 TIS-ITAB 2001 is the first **combined** International conference. It ***will*** ***be*** an opportunity for the international community to ***exchange*** ideas and **develop** a common vision for the future of the world healthcare. Contributions ***to*** the progress of developing a global telemetrically information society will ***include*** scientific papers, demonstrations, forums and future vision papers. The ***organizing*** committee has been working hard to make TIS-ITAB 2001 a truly ***memorable***, experience for all participants.
@@ -318,7 +320,7 @@ Dear Colleagues:
 
 Please note a correction in the call for papers……Please accept my ***apologies for*** the original error in email contact..… Those interested in proposing papers and panels please feel ***free*** to contact James Orr, MARAAS 2007…..
 
-The 2007 MARAAS ….The conference ***theme*** will be “Asia Rising：Departure，Destinations, Dreams”….This theme is intended to be heuristic（启发式的）, and the organizers hope to elicit（引出） paper and panel proposals（小组建议） that ***interpret the theme*** creatively.  To ***propose*** a panel or an individual paper, please send a completed **proposal** form, along with a one-page ***abstract*** by May 1,2007 to James Orr. Inquiries are welcome. Proposals may be ***submitted*** by mail, fax or …..Further details will be ***available*** on the conference website….
+The 2007 MARAAS ….The conference ***theme*** will be “Asia Rising：Departure，Destinations, Dreams”….This theme is intended to be heuristic（启发式的）, and the organizers hope to elicit（引出） paper and panel proposals（小组**建议**） that ***interpret the theme*** creatively.  To ***propose*** a panel or an individual paper, please send a completed **proposal** form, along with a one-page ***abstract*** by May 1,2007 to James Orr. Inquiries are welcome. Proposals may be ***submitted*** by mail, fax or …..Further details will be ***available*** on the conference website….
 
 In order to submit a proposal for the….a 2007 MARRAS member or submit a ***membership application*** to Executive Secretary, Dr ……,please ***go to*** www.maraas.org or ….
 
@@ -497,11 +499,11 @@ I will answer your question one by one。
 44、还有其他问题吗？可再提一个  
 Any other question? One more  
 
-45、南卡罗来纳一颗大学副教授  
+45、南卡罗来纳医科大学副教授  
 An associate professor at the Medical University of South Carolina  
 
 46、我很遗憾地宣布提问到此结束。感谢你们提出这么多有趣的、富有启发性的问题  
-I am sorry to stay that this session will nave to stop here .Thank you for your interesting and illuminating questions.  
+I am sorry to say that this session will have to stop here .Thank you for your interesting and illuminating questions.  
 
 ---
 
@@ -542,7 +544,7 @@ I am YangQing from China. It’s my pleasure to be chairman for this congress. F
 
 12、很荣幸欢迎大家到北京参加第六届国际信息技术大会。这次大会的独特之处在于，这是首次在亚洲发展中国家召开国际信息技术大会，它就信息技术对社会各个领域的影响这一话题提供了一次特殊的交流机会。
 
-I have the honor and the pleasure to welcome you to Beijing o attend the 6th International congress of Information Technologies. This congress is unique in that it is the first International congress of Information Technologies to be held in a developing Asian country. It provides a special opportunity to exchange ideas on the social impacts of information technology in all areas.  
+I have the honor and the pleasure to welcome you to Beijing to attend the 6th International congress of Information Technologies. This congress is unique in that it is the first International congress of Information Technologies to be held in a developing Asian country. It provides a special opportunity to exchange ideas on the social impacts of information technology in all areas.  
 
 13、本次会议的目的是就土木工程方面两项优良技术的理论问题、新的发展前途和实际运用交流经验、交换知识。
 
