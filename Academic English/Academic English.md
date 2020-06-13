@@ -1,45 +1,44 @@
 # 国际学术交流英语
 
-- [国际学术交流英语](#国际学术交流英语)
-  - [1. Unit1](#1-unit1)
-    - [1.1. 单词](#11-单词)
-    - [1.2. 完形填空](#12-完形填空)
-      - [1.2.1. P34](#121-p34)
-    - [1.3. 练习翻译](#13-练习翻译)
-      - [1.3.1. P50](#131-p50)
-    - [1.4. Learning Aids](#14-learning-aids)
-      - [1.4.1. P48](#141-p48)
-  - [2. Unit2](#2-unit2)
-    - [2.1. 单词](#21-单词)
-    - [2.2. 练习翻译](#22-练习翻译)
-      - [2.2.1. P75](#221-p75)
-      - [2.2.2. P66](#222-p66)
-      - [2.2.3. P85](#223-p85)
-    - [2.3. 完形填空](#23-完形填空)
-      - [2.3.1. P65](#231-p65)
-      - [2.3.2. P84](#232-p84)
-  - [3. Unit3](#3-unit3)
-    - [3.1. 单词](#31-单词)
-    - [3.2. 完形填空](#32-完形填空)
-      - [3.2.1. P100](#321-p100)
-  - [4. Unit4](#4-unit4)
-    - [4.1. 单词](#41-单词)
-    - [4.2. 练习翻译](#42-练习翻译)
-      - [4.2.1. P149](#421-p149)
-      - [4.2.2. P185](#422-p185)
-  - [5. Unit 5](#5-unit-5)
-    - [5.1. 单词](#51-单词)
-    - [5.2. 练习翻译](#52-练习翻译)
-      - [5.2.1. P201 3](#521-p201-3)
-      - [5.2.2. P201 4](#522-p201-4)
-      - [5.2.3. P213 2](#523-p213-2)
-    - [5.3. P225](#53-p225)
-  - [6. Unit6](#6-unit6)
-    - [6.1. 练习翻译](#61-练习翻译)
-      - [6.1.1. P284 4](#611-p284-4)
-    - [6.2. 完形填空](#62-完形填空)
-      - [6.2.1. P240](#621-p240)
-      - [6.2.2. P285](#622-p285)
+- [1. Unit1](#1-unit1)
+  - [1.1. 单词](#11-单词)
+  - [1.2. 完形填空](#12-完形填空)
+    - [1.2.1. P34](#121-p34)
+  - [1.3. 练习翻译](#13-练习翻译)
+    - [1.3.1. P50](#131-p50)
+  - [1.4. Learning Aids](#14-learning-aids)
+    - [1.4.1. P48](#141-p48)
+- [2. Unit2](#2-unit2)
+  - [2.1. 单词](#21-单词)
+  - [2.2. 练习翻译](#22-练习翻译)
+    - [2.2.1. P75](#221-p75)
+    - [2.2.2. P66](#222-p66)
+    - [2.2.3. P85](#223-p85)
+  - [2.3. 完形填空](#23-完形填空)
+    - [2.3.1. P65](#231-p65)
+    - [2.3.2. P84](#232-p84)
+- [3. Unit3](#3-unit3)
+  - [3.1. 单词](#31-单词)
+  - [3.2. 完形填空](#32-完形填空)
+    - [3.2.1. P100](#321-p100)
+- [4. Unit4](#4-unit4)
+  - [4.1. 单词](#41-单词)
+  - [4.2. 练习翻译](#42-练习翻译)
+    - [4.2.1. P149](#421-p149)
+    - [4.2.2. P185](#422-p185)
+- [5. Unit 5](#5-unit-5)
+  - [5.1. 单词](#51-单词)
+  - [5.2. 练习翻译](#52-练习翻译)
+    - [5.2.1. P201 3](#521-p201-3)
+    - [5.2.2. P201 4](#522-p201-4)
+    - [5.2.3. P213 2](#523-p213-2)
+  - [5.3. P225](#53-p225)
+- [6. Unit6](#6-unit6)
+  - [6.1. 练习翻译](#61-练习翻译)
+    - [6.1.1. P284 4](#611-p284-4)
+  - [6.2. 完形填空](#62-完形填空)
+    - [6.2.1. P240](#621-p240)
+    - [6.2.2. P285](#622-p285)
 
 ## 1. Unit1
 
@@ -332,6 +331,10 @@ In order to submit a proposal for the….a 2007 MARRAS member or submit a ***mem
 
 English | 汉语
 ------- | -------
+footnote | 脚注
+endnote | 尾注
+bibliography | 参考文献
+periodical | 期刊
 succinctly | 简要、简洁
 legislate | 通过立法、立法规定
 motivation | 动机
@@ -410,10 +413,45 @@ Those in the second group ***who performed poorly*** did not have the informal s
 
 English | 汉语
 ------- | -------
+laud | 赞美，称赞
+arouse | 引起，唤醒
+recital | 背诵，详述
+dimension | 尺寸，维度
+consultant | 顾问
+clarity | 清楚，明晰；透明度
+conciseness | 简明性，简洁性
+audience cognition | 受众认知
+**digress** | vi.走向岔道，离题跑题
+**trim** away any excess word | 去掉多余的词
+distinguished guests | 著名的来宾
+delegates | 代表（团）
+glue | 胶，粘性物；粘合，胶合
+monotone | 单调（的）
+syllable | 音节
+distinctly | 显然地，明显地，清楚地
+enunciate | 阐明，表明，明确地叙述
+nonverbal | 不用语言地
+verbal | 用言辞的，口述的
+tone | 音调，语调，语气
+enthusiastically | 狂热地，热心地
+ambivalent | 矛盾的，模棱两可地
+transition | 转变，转换，过渡
+illustrations | 插图，插画
+illustrate | 举例说明，作图解
+chalkboards | 黑板
+gracious | 亲切的
+unambiguously | 明白地，不含糊地
+ambiguously | 含糊不清地
+confine | 限制，限定
+restrict | 限制，约束
+limit | 限制，限定
+curb | 抑制，束缚；边石（马路牙子）
+liberty | 自由（女神像），特权，许可
 in regard to | 关于
 address sb | 给... 做演讲、向.致辞
 entitle | 题目是...
 enlightening | 有启发作用的
+heuristic | 启发式的，探索的
 caterto | 迎合;为..服务
 benefitalot | 受益匪浅
 reflections and insights | 思考和见解
@@ -431,7 +469,7 @@ intact | 完整的
 sustainable | 可持续发展的
 acknowledge | 承认、认识
 moderator | 主持人
-Be related to | 与..相关
+be related to | 与..相关
 toxic | 有毒的
 gigantic | 巨大的、庞大的
 disruption | 中断
@@ -456,6 +494,8 @@ beverage | 饮料
 comprehensive | 综合的
 
 ### 4.2. 练习翻译
+
+The purpose of this conference is **to** call people's attention to these dimensions and find effective ways to solve these problems.
 
 #### 4.2.1. P149
 
@@ -513,7 +553,7 @@ I am sorry to say that this session will have to stop here .Thank you for your i
 
 English | 汉语
 ------- | -------
-congratulationson | 就..致贺
+congratulations on | 就..致贺
 convening | 召开
 congenial | 意气相投的
 remarkable | 卓越的
@@ -548,15 +588,15 @@ I have the honor and the pleasure to welcome you to Beijing to attend the 6th In
 
 13、本次会议的目的是就土木工程方面两项优良技术的理论问题、新的发展前途和实际运用交流经验、交换知识。
 
-The purpose of this conference is to exchange experience and knowledge in regard to the theories, new developments  and practical applications of two promising techniques of civil engineering.  
+The purpose of this conference is to exchange experience and knowledge in regard to the theories, new developments  and practical applications of two _promising techniques_ (**_excellent technologies_**) of civil engineering.  
 
 14、本次会议的研讨范围涉及到磁共振技术为主要手段的所有研究领域、并安排了全会报告和大约15次学术座谈会。学术座谈会研讨的重点是物理、化学、生物及试验方法等重要领域中的新进展。
 
-It is planned to devote the congress to all areas of research where magnetic resonance techniques are used as a primary tool. This will be attempted in plenary lectures and about 15 symposia. The latter shouldfocus on recent progress in important areas of physics,chemistry and methodology.  
+It is planned to devote the congress to all areas of research where magnetic resonance techniques are used as a primary tool. This will be attempted in plenary lectures and about 15 symposia. The latter should focus on recent progress in important areas of physics,chemistry,biology and experiment methods.  
 
 15、我预祝大会圆满成功，成效显著，并祝大家在美丽的历史名城济南度过愉快而难忘的时光。
 
-I wish the congress will be successful and productive, and wish you to have a pleasant and memorable experience in the beautiful historical city of Jinan.  
+I wish the congress will be successful and productive, and *wish you to* have a pleasant and memorable experience in the beautiful historical city of Jinan.  
 
 #### 5.2.2. P201 4
 
