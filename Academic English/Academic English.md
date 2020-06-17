@@ -1,44 +1,8 @@
-# 国际学术交流英语
-
-- [1. Unit1](#1-unit1)
-  - [1.1. 单词](#11-单词)
-  - [1.2. 完形填空](#12-完形填空)
-    - [1.2.1. P34](#121-p34)
-  - [1.3. 练习翻译](#13-练习翻译)
-    - [1.3.1. P50](#131-p50)
-  - [1.4. Learning Aids](#14-learning-aids)
-    - [1.4.1. P48](#141-p48)
-- [2. Unit2](#2-unit2)
-  - [2.1. 单词](#21-单词)
-  - [2.2. 练习翻译](#22-练习翻译)
-    - [2.2.1. P75](#221-p75)
-    - [2.2.2. P66](#222-p66)
-    - [2.2.3. P85](#223-p85)
-  - [2.3. 完形填空](#23-完形填空)
-    - [2.3.1. P65](#231-p65)
-    - [2.3.2. P84](#232-p84)
-- [3. Unit3](#3-unit3)
-  - [3.1. 单词](#31-单词)
-  - [3.2. 完形填空](#32-完形填空)
-    - [3.2.1. P100](#321-p100)
-- [4. Unit4](#4-unit4)
-  - [4.1. 单词](#41-单词)
-  - [4.2. 练习翻译](#42-练习翻译)
-    - [4.2.1. P149](#421-p149)
-    - [4.2.2. P185](#422-p185)
-- [5. Unit 5](#5-unit-5)
-  - [5.1. 单词](#51-单词)
-  - [5.2. 练习翻译](#52-练习翻译)
-    - [5.2.1. P201 3](#521-p201-3)
-    - [5.2.2. P201 4](#522-p201-4)
-    - [5.2.3. P213 2](#523-p213-2)
-  - [5.3. P225](#53-p225)
-- [6. Unit6](#6-unit6)
-  - [6.1. 练习翻译](#61-练习翻译)
-    - [6.1.1. P284 4](#611-p284-4)
-  - [6.2. 完形填空](#62-完形填空)
-    - [6.2.1. P240](#621-p240)
-    - [6.2.2. P285](#622-p285)
+---
+title: 国际学术交流英语复习
+date: 2020-06-14 17:05:21
+tags: 英语
+---
 
 ## 1. Unit1
 
@@ -110,6 +74,8 @@ courtesy | 礼貌的、礼节
 population transition | 人口过渡
 countermeasures | 对策、措施
 senior citizen | 老年人
+
+<!-- more -->
 
 ### 1.2. 完形填空
 
@@ -452,7 +418,7 @@ address sb | 给... 做演讲、向.致辞
 entitle | 题目是...
 enlightening | 有启发作用的
 heuristic | 启发式的，探索的
-caterto | 迎合;为..服务
+cater to | 迎合;为..服务
 benefitalot | 受益匪浅
 reflections and insights | 思考和见解
 prior to | 在..之前
@@ -465,7 +431,7 @@ devastating | 毁灭性的
 coastal wetlands | 海岸湿地
 buffer | 缓冲
 livelihoods | 生计
-intact | 完整的
+intact | 完整的，原封不动的
 sustainable | 可持续发展的
 acknowledge | 承认、认识
 moderator | 主持人
@@ -492,10 +458,16 @@ ban | 禁止
 disposable | 可任意处理的
 beverage | 饮料
 comprehensive | 综合的
+omitting | 省略
+dwell | 居住于，存在于
+sake | 目的，缘故，理由
+suffice | 满足
+landmark | 划时代的，地标
+sensation | 感觉
 
 ### 4.2. 练习翻译
 
-The purpose of this conference is **to** call people's attention to these dimensions and find effective ways to solve these problems.
+> The purpose of this conference is **to** call people's attention to these dimensions and find effective ways to solve these problems.
 
 #### 4.2.1. P149
 
@@ -573,6 +545,9 @@ tremendous | 巨大的
 resolution | 解决办法
 contribute to | 对..有贡献
 tangible | 体的
+assessments | 评估
+appropriateness | 适当，适合
+rehabilitation | 复原，康复
 
 ### 5.2. 练习翻译
 
@@ -580,7 +555,7 @@ tangible | 体的
 
 11、我叫杨晴，来自中国，很荣幸担任本次大会的主席。首先，我代表和平利用原子能执行委员会欢迎大家。
 
-I am YangQing from China. It’s my pleasure to be chairman for this congress. First, I welcome you all on behalf of the Executive committee of the Congress on the peaceful Use of Atomic Energy.  
+I am YangQing from China. It’s my pleasure to be chairman for this congress. First, I welcome you all on behalf of the Executive committee of the Congress on the peaceful use of Atomic Energy.  
 
 12、很荣幸欢迎大家到北京参加第六届国际信息技术大会。这次大会的独特之处在于，这是首次在亚洲发展中国家召开国际信息技术大会，它就信息技术对社会各个领域的影响这一话题提供了一次特殊的交流机会。
 
@@ -588,11 +563,11 @@ I have the honor and the pleasure to welcome you to Beijing to attend the 6th In
 
 13、本次会议的目的是就土木工程方面两项优良技术的理论问题、新的发展前途和实际运用交流经验、交换知识。
 
-The purpose of this conference is to exchange experience and knowledge in regard to the theories, new developments  and practical applications of two _promising techniques_ (**_excellent technologies_**) of civil engineering.  
+The purpose of this conference is to exchange experience and knowledge in regard to the theories, new developments and practical applications of two _promising techniques_ (**_excellent technologies_**) of civil engineering.  
 
 14、本次会议的研讨范围涉及到磁共振技术为主要手段的所有研究领域、并安排了全会报告和大约15次学术座谈会。学术座谈会研讨的重点是物理、化学、生物及试验方法等重要领域中的新进展。
 
-It is planned to devote the congress to all areas of research where magnetic resonance techniques are used as a primary tool. This will be attempted in plenary lectures and about 15 symposia. The latter should focus on recent progress in important areas of physics,chemistry,biology and experiment methods.  
+It is planned to devote the congress to all areas of research where *magnetic resonance* techniques are used as a primary tool. This will be attempted in plenary lectures and about 15 symposia. The latter should focus on recent progress in important areas of physics,chemistry,biology and experiment methods.  
 
 15、我预祝大会圆满成功，成效显著，并祝大家在美丽的历史名城济南度过愉快而难忘的时光。
 
@@ -608,7 +583,7 @@ On behalf of the Physical Science Society of International Council for Science, 
 
 33、本次会议成效显著，硕果累累。我们每个人都受益匪浅。
 
-The conference has been very fruitful and productive. We benefited greatly by attending it.  
+The conference has been very **fruitful** and productive. We benefited greatly by attending it.  
 
 34、我们期望彼此在物理科学领域密切联系，加强合作。
 
@@ -620,25 +595,25 @@ I would like to express our sincere thanks to the members of the Organizing Comm
 
 37、我期望两年后，2007年在中国举行的下次会议上与您相见。
 
-I look forward to seeing you again at the next conference two years hence in 2007 in China.  
+I look forward to seeing you again at the next conference two years **hence** in 2007 in China.  
 
 ### 5.3. P225
 
 17、我很高兴参加今天的盛宴。借此机会，我代表上海市人民政府和上海人民对各位表示热烈的欢迎。
 
-I am very glad to attend today’s banquet .I would like to take this opportunity, on behalf of shanghai municipal government and the people of shanghai, to extend our warm welcome to you all.  
+I am very glad to attend today’s banquet .I would like to take this opportunity, on behalf of shanghai **municipal** government and the people of shanghai, to extend our warm welcome to you all.  
 
 18、近年来，世界各国的很多学者和专家来我校讲学和从事学术交流。
 
-In recent years, quite a number of scholars and scientists from all over the world have come to our university to give lectures or conduct academic exchanges.  
+In recent years, quite a number of scholars and scientists from all over the world have come to our university to give lectures or **conduct** academic exchanges.  
 
 19、我们这些大学在全世界形成一个很大的知识群体，科学无国界，知识属于每个人。
 
-Our universities from a great intellectual community around the world. Science has no nationality, and knowledge belongs to everyone.  
+Our universities form a great intellectual community around the world. Science has no nationality, and knowledge belongs to everyone.  
 
 20、每一所大学是本国社会里的一座灯塔。通过和姊妹院校的辽西，她的知识和价值得以广泛传播。
 
-Each university is a beacon of in its own society and, by its association with other universities, its knowledge and values spread widely.  
+Each university is a **beacon** of in its own society and, by its association with other universities, its knowledge and values spread widely.  
 
 21、温哥华不仅有美丽的公园、旅游胜地和购物中心，它还是一个来自不同民族、不同文化背景的人民友好和睦的相聚之地。
 
@@ -646,11 +621,11 @@ More than beautiful parks, tourist attractions and shopping areas, Vancouver is 
 
 22、我希望你们喜欢中餐，希望这顿中餐会使你们对中国的烹调技术有更多的了解。烤鸭是北京的特殊风味菜肴，请随意。
 
-I wish you enjoy Chinese food, hope the dishes will give you a better idea of chinese cooking. The roast duck is a Beijing speciality. Please help yourself.  
+I wish you enjoy Chinese food, hope the dishes will give you a better idea of Chinese cooking. The roast duck is a Beijing speciality. Please help yourself.  
 
-23、我提议为我们研究项目的成功、为我们的友谊、为我们美好的未来、为在座各位女士、先生们的健康干杯。
+23、我提议为我们研究项目的成功、为我们的友谊、为我们美好的未来、为在座各位女士、先生们的健康**干杯**。
 
-I would like to propose a toast to the success of our research project, to our friendship, to our bright future, to the health of all the ladies and gentlemen present.  
+I would like to propose a **toast** to the success of our research project, to our friendship, to our bright future, to the health of all the ladies and gentlemen present.  
 
 24、希望谨以此杯为开始，在今后的岁月里我们将一起举杯共饮。
 
@@ -658,11 +633,11 @@ May this glass be only the first of many that we will share together over the co
 
 25、我借此机会再次向你们表示感谢。祝愿你们健康幸福，祝我们之间的友谊进一步巩固和发展。
 
-I avail myself of this opportunity to express my heartfelt gratitude to you again. I wish you health and happiness. May the friendship between us be further developed and consolidated  
+I **avail** myself of this opportunity to express my **heartfelt** gratitude to you again. I wish you health and happiness. May the friendship between us be further developed and **consolidated**.  
 
 26、明天本次会议将圆满结束。我希望你们旅途愉快，并请你们在回国以后向你们的家人和同事转达我们的问候和美好祝愿。
 
-Tomorrow we will conclude our conference with great success. I wish you a pleasant journey and may I ask you to convey to your families and colleagues on your return the greeting and best wishes of us.  
+Tomorrow we will **conclude（结束，作结论🔚）** our conference with great success. I wish you a pleasant journey and may I ask you to convey to your families and colleagues on your return the greeting and best wishes of us.  
 
 ---
 
@@ -674,23 +649,23 @@ Tomorrow we will conclude our conference with great success. I wish you a pleasa
 
 27、我希望在贵校法学院学习国际法，因为目前国际商务十分频繁，国际诉讼案件越来越复杂，急需这方面的专家。
 
-I wish to study international law in the school of law in your university. With more and more international business activities now, international business activities now, international lawsuits become more complex and miscellaneous, and experts in this area are urgently needed.  
+I wish to study international law in the school of law in your university. With more and more international business activities now, international lawsuits become more complex and **miscellaneous**, and experts in this area are urgently needed.  
 
 28、整个大学四年，我都非常用功，每学年都获得奖学金。
 
-Throughout my four years of undergraduate study, I worked hard and obtained scholarship every year.  
+Throughout my four years of **undergraduate** study, I worked hard and obtained scholarship every year.  
 
 29、我读的是新闻专业，大学四年级实习时曾在《济南日报》社工作，负责社区事务版。2003年夏天，我协助《每日通讯》的编辑，负责撰稿和摄影工作。
 
-My degree is in journalism, and my intern work during my senior year was on the community desk at the Jinan daily. In the summer of 2003, I assisted the editor of the Daily Newsletter and was responsible for writing articles and taking pictures.  
+My degree is in journalism, and my intern work during my **senior** year was on the community desk at the Jinan daily. In the summer of 2003, I assisted the editor of the Daily Newsletter and was responsible for writing articles and taking pictures.  
 
 30、在这个岗位工作了一年半之后，我深刻意识到自己缺乏有关水利资源规划和建设方面的知识，需要学习研究生课程。
 
-At the position for one and half years, I am fully aware of my insufficiency in knowledge concerning water recourses planning and construction, therefore I need to do graduate program.  
+At the position for one and half years, I am fully aware of my **insufficiency** in knowledge concerning water recourses planning and construction, therefore I need to do graduate program.  
 
-31、我是一个责任心很强的人，能准确而即使地完成每项任务。
+31、我是一个责任心很强的人，能准确而及时地完成每项任务。
 
-I am a very conscientious person, capable of finishing tasks in an accurate manner and on time.
+I am a very ***conscientious*** person, capable of finishing tasks in an accurate manner and on time.
 
 ### 6.2. 完形填空  
 
